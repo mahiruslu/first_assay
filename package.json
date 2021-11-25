@@ -1,0 +1,15 @@
+{
+  "name": "first_assay",
+  "version": "1.0.0",
+  "description": "assay1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mahir",
+  "license": "ISC",
+  "dependencies": {
+    "ip": "^1.1.5",
+    "moment": "^2.29.1"
+  }
+}
